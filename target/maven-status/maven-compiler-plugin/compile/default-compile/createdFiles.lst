@@ -1,0 +1,12 @@
+com\deepdrimz\library\compliance\kyc\IDDocTypeSync.class
+com\deepdrimz\library\converters\TStringConverter$1.class
+com\deepdrimz\library\utilities\sdk\Entity.class
+com\deepdrimz\library\compliance\kyc\DocFileStatus.class
+com\deepdrimz\library\utilities\sdk\Gender.class
+com\deepdrimz\library\utilities\sdk\ISOCurrency.class
+com\deepdrimz\library\compliance\kyc\IDDocSync.class
+com\deepdrimz\library\utilities\sdk\TString.class
+com\deepdrimz\library\utilities\sdk\PersonType.class
+com\deepdrimz\library\converters\TStringConverter.class
+com\deepdrimz\library\utilities\sdk\EncryptedString.class
+com\deepdrimz\library\utilities\sdk\ISOLang.class
